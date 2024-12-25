@@ -2,61 +2,65 @@
 
 ## Project Overview
 
-This project involves the creation of an interactive Power BI dashboard for analyzing terrorism data. The dashboard provides detailed visualizations of key metrics such as attack success rates, weapon usage, and target types across regions, helping to uncover trends and insights into global terrorism dynamics.
+This project involves the creation of an interactive Power BI dashboard to analyze and visualize global terrorism data. The dashboard provides insights into critical metrics such as attack success rates, weapon usage, and target types across various regions. By leveraging decades of data, the project aims to support data-driven policy-making and enhance security measures.
 
 ## Key Features
 
-- **Interactive Dashboard**:
-  - Visualizes critical metrics, including attack success rates, weapon usage, and target types.
-  - Enables exploration of trends spanning decades, identifying peak periods and group activities.
-
-- **Geospatial Analysis**:
-  - Integrated mapping tools like Bing Maps and OpenStreetMap for enhanced location-based insights.
-  - Highlighted regional differences in attack patterns, offering a global perspective.
+- **Dynamic Dashboard**:
+  - Visualizes terrorism metrics such as attack success rates, weapon usage, and target types.
+  - Offers region-based analysis with dynamic filtering capabilities.
 
 - **Trend Analysis**:
-  - Examined data over multiple decades to identify shifts in terrorism patterns and dynamics.
-  - Insights into group activities and their regional impact.
+  - Highlights peak attack periods, group activities, and global terrorism trends over decades.
+  - Provides detailed insights into regional differences in attack patterns.
 
-- **Actionable Insights**:
-  - Provided detailed analysis for policy-making and security strategy development.
-  - Helped stakeholders understand global and regional variations in attack patterns.
+- **Geospatial Analysis**:
+  - Integrated mapping tools such as Bing Maps and OpenStreetMap for enriched geospatial analysis.
+  - Visualizes attack locations and regional activity hotspots.
 
 ## Tools and Technologies
 
-- **Power BI**: For creating the interactive dashboard and visualizations.
-- **DAX**: Used for advanced calculations and custom analytics.
-- **Mapping Tools**: Bing Maps and OpenStreetMap for geospatial analysis.
-- **Data Sources**: Integrated data from global terrorism datasets.
+- **Power BI**: Used for building the interactive dashboard and creating visualizations.
+- **Mapping Tools**: Bing Maps and OpenStreetMap for geospatial visualizations.
+- **Data Sources**: Analyzed terrorism datasets spanning decades for comprehensive insights.
+
+## Dataset
+The dataset used in this project can be accessed via the following link:  
+[Download Dataset](https://drive.google.com/file/d/1vkD2qU71Ioc_cSY9OMqvXjap-EYD1ZaA/view?usp=sharing)
 
 ## Impact
 
-- Enhanced understanding of terrorism trends through data visualization.
-- Provided actionable insights for data-driven policy and security measures.
-- Improved stakeholder engagement with a user-friendly and visually compelling dashboard.
+- **Enhanced Policy Formulation**:
+  - Provided actionable insights into regional attack patterns and global dynamics.
+  - Supported data-driven decision-making for security measures.
+
+- **Improved Stakeholder Understanding**:
+  - Delivered easy-to-understand visualizations to support policymaking and awareness.
+
+- **Efficient Data Analysis**:
+  - Utilized advanced filtering and geospatial tools for a comprehensive view of global terrorism.
 
 ## How to Use
 
 1. **Open the Power BI File**:
-   - Download and install Power BI Desktop if not already installed.
+   - Ensure you have Power BI Desktop installed on your system.
    - Open the `Terrorism.pbix` file in Power BI.
 
 2. **Explore the Dashboard**:
-   - Use interactive elements to filter data by time periods, regions, or attack types.
-   - Analyze metrics like attack success rates, weapon usage, and target types.
+   - Use filters to analyze specific metrics such as attack types, regions, and success rates.
+   - View geospatial data on maps for location-specific insights.
 
-3. **Customize the Analysis**:
-   - Modify filters and slicers to focus on specific regions or groups for deeper insights.
-   - Explore geospatial trends using the integrated mapping tools.
+3. **Customize Views**:
+   - Adjust slicers and filters to tailor the dashboard for specific analyses.
 
-4. **Export and Share**:
-   - Export reports or share the dashboard via Power BI service for collaboration.
+4. **Export Reports**:
+   - Export the visualizations or share the dashboard via Power BI service for collaboration.
 
-## Future Improvements
+## Future Enhancements
 
-- Integration of predictive analytics for forecasting future trends.
-- Inclusion of additional datasets for a more comprehensive analysis.
-- Automation of data refresh for real-time insights.
+- Integration of predictive analytics for forecasting terrorism trends.
+- Incorporation of real-time data feeds for up-to-date insights.
+- Addition of more interactive elements to enhance user engagement.
 
 ## Contact
 
