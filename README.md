@@ -1,5 +1,9 @@
 # Terrorism Interactive Dashboard Data Analysis Project Using Power BI
 
+## Dataset
+The dataset used in this project can be accessed via the following link:  
+[Download Dataset](https://drive.google.com/file/d/1vkD2qU71Ioc_cSY9OMqvXjap-EYD1ZaA/view?usp=sharing)
+
 ## Project Overview
 
 This project involves the creation of an interactive Power BI dashboard to analyze and visualize global terrorism data. The dashboard provides insights into critical metrics such as attack success rates, weapon usage, and target types across various regions. By leveraging decades of data, the project aims to support data-driven policy-making and enhance security measures.
@@ -23,10 +27,6 @@ This project involves the creation of an interactive Power BI dashboard to analy
 - **Power BI**: Used for building the interactive dashboard and creating visualizations.
 - **Mapping Tools**: Bing Maps and OpenStreetMap for geospatial visualizations.
 - **Data Sources**: Analyzed terrorism datasets spanning decades for comprehensive insights.
-
-## Dataset
-The dataset used in this project can be accessed via the following link:  
-[Download Dataset](https://drive.google.com/file/d/1vkD2qU71Ioc_cSY9OMqvXjap-EYD1ZaA/view?usp=sharing)
 
 ## Impact
 
